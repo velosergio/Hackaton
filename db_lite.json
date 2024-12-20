@@ -1,0 +1,72 @@
+[
+    {
+        "ID":1,
+        "DEPARTAMENTO":"SUCRE",
+        "MUNICIPIO":"COROZAL",
+        "EMPRESA":"COOPERATIVA AGROPECUARIA DE LA SABANA EN LIQUIDACION",
+        "FECHA_REGISTRO":20160302,
+        "FECHA_RENOVACION":20170323,
+        "VALOR_ACTIVOS":750000,
+        "CODIGO_ACTIVIDAD_PRINCIPAL":"S9499 ** Actividades de otras asociaciones ncp",
+        "CODIGO_ACTIVIDAD_SECUNDARIA":"0",
+        "TIPO_EMPRESA":"COOPERATIVAS",
+        "TIPO_ORGANIZACION":"COOPERATIVAS",
+        "SECTOR_PERTENECE":"Terciario"
+    },
+    {
+        "ID":2,
+        "DEPARTAMENTO":"SUCRE",
+        "MUNICIPIO":"SINCELEJO",
+        "EMPRESA":"COOPERATIVA AGROPECUARIA DE PRODUCTORES DE LECHE DE LA SABANAS",
+        "FECHA_REGISTRO":20201204,
+        "FECHA_RENOVACION":20220309,
+        "VALOR_ACTIVOS":6775000,
+        "CODIGO_ACTIVIDAD_PRINCIPAL":"S9499 ** Actividades de otras asociaciones ncp",
+        "CODIGO_ACTIVIDAD_SECUNDARIA":"0",
+        "TIPO_EMPRESA":"COOPERATIVAS",
+        "TIPO_ORGANIZACION":"COOPERATIVAS",
+        "SECTOR_PERTENECE":"Terciario"
+    },
+    {
+        "ID":3,
+        "DEPARTAMENTO":"SUCRE",
+        "MUNICIPIO":"SAN MARCOS",
+        "EMPRESA":"COOPERATIVA DE EMPRESARIOS DEL CAPO - COSECHA",
+        "FECHA_REGISTRO":20210302,
+        "FECHA_RENOVACION":20220331,
+        "VALOR_ACTIVOS":12000000,
+        "CODIGO_ACTIVIDAD_PRINCIPAL":"S9499 ** Actividades de otras asociaciones ncp",
+        "CODIGO_ACTIVIDAD_SECUNDARIA":"0",
+        "TIPO_EMPRESA":"COOPERATIVAS",
+        "TIPO_ORGANIZACION":"COOPERATIVAS",
+        "SECTOR_PERTENECE":"Terciario"
+    },
+    {
+        "ID":4,
+        "DEPARTAMENTO":"SUCRE",
+        "MUNICIPIO":"EL ROBLE",
+        "EMPRESA":"COOPERATIVA DE PRODUCTORES AGROAMBIENTALES",
+        "FECHA_REGISTRO":20150511,
+        "FECHA_RENOVACION":20190503,
+        "VALOR_ACTIVOS":1200000,
+        "CODIGO_ACTIVIDAD_PRINCIPAL":"S9499 ** Actividades de otras asociaciones ncp",
+        "CODIGO_ACTIVIDAD_SECUNDARIA":"R9103 ** Actividades de jardines botanicos  zoologicos y reservas naturales",
+        "TIPO_EMPRESA":"COOPERATIVAS",
+        "TIPO_ORGANIZACION":"COOPERATIVAS",
+        "SECTOR_PERTENECE":"Terciario"
+    },
+    {
+        "ID":5,
+        "DEPARTAMENTO":"SUCRE",
+        "MUNICIPIO":"SINCELEJO",
+        "EMPRESA":"COOPERATIVA LA DIECISEIS STREET",
+        "FECHA_REGISTRO":20140930,
+        "FECHA_RENOVACION":20180813,
+        "VALOR_ACTIVOS":1000000,
+        "CODIGO_ACTIVIDAD_PRINCIPAL":"S9499 ** Actividades de otras asociaciones ncp",
+        "CODIGO_ACTIVIDAD_SECUNDARIA":"0",
+        "TIPO_EMPRESA":"COOPERATIVAS",
+        "TIPO_ORGANIZACION":"COOPERATIVAS",
+        "SECTOR_PERTENECE":"Terciario"
+    }
+]

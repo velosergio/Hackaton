@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Reportes de Datos</title>
+</head>
+<body>
+    <h1>Contenido de la Base de Datos</h1>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Departamento</th>
+            <th>Municipio</th>
+            <th>Empresa</th>
+            <th>Fecha Registro</th>
+            <th>Valor Activos</th>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td>{{ item.ID }}</td>
+            <td>{{ item.DEPARTAMENTO }}</td>
+            <td>{{ item.MUNICIPIO }}</td>
+            <td>{{ item.EMPRESA }}</td>
+            <td>{{ item.FECHA_REGISTRO }}</td>
+            <td>{{ item.VALOR_ACTIVOS }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <div>
+        {% if pagina > 1 %}
+            <a href="?pagina={{ pagina - 1 }}">Anterior</a>
+        {% endif %}
+        <span>Página {{ pagina }} de {{ total_paginas }}</span>
+        {% if pagina < total_paginas %}
+            <a href="?pagina={{ pagina + 1 }}">Siguiente</a>
+        {% endif %}
+    </div>
+</body>
+</html>
